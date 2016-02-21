@@ -1,0 +1,14 @@
+(lp1
+(imodel.film
+Film
+p2
+(dp3
+S'country'
+p4
+S'Russia'
+p5
+sS'name'
+p6
+S'Island'
+p7
+sba.

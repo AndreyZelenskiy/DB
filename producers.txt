@@ -1,0 +1,14 @@
+(lp1
+(imodel.producer
+Producer
+p2
+(dp3
+S'surname'
+p4
+S'Mihalkov'
+p5
+sS'name'
+p6
+S'Nikita'
+p7
+sba.
